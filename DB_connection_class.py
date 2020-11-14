@@ -1,3 +1,4 @@
+# import the necessary modules
 import pyodbc
 
 # the purpose of this class is to estabish a connectinon with the Northwind DB
